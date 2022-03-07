@@ -1,0 +1,91 @@
+h3{
+    font-size: 24px;
+}
+
+p {
+    font-size: 12px;
+}
+
+div.top-header{
+    padding: 5%;
+}
+
+header div.log{
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    background:#39b54a; 
+}
+
+header div.log img{
+    width: 90%;
+}
+
+header div.log{
+    padding: 10px;
+}
+
+header nav{
+    font-size: 12px;
+}
+
+header ul li {
+    list-style-type: none;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: #000;
+}
+
+header .form .imput{
+background-color: #FFF;
+border:1px solid #000;
+outline: none;
+}
+
+header{ background-color: #EAC926;
+}
+
+header div.top-header p {
+width: 100%;
+text-align: center;
+margin-top: 10px;
+}
+
+
+div.burger-menu  {
+text-align: center;
+}
+
+div.burger-menu i  {
+    background-color:#1259c3;;
+    border-radius: 5px; 
+    color: #ebebeb;
+    font-size: 20px;
+    height: 40px;
+    margin: 10px 0px 20px 0px;
+    padding: 10px;
+    width: 40px;
+    }
+
+
+ article div.main-article{
+width: 100%;
+ }
+
+ .price{
+     font-size: 18px;
+ }
+ h3, .description{
+     color: #666;
+ }
+
+ .discount, .description{
+     font-size: 16px;
+     font-weight: normal;
+ }
+
+ section.banner img{
+     width: 100%;
+ }
